@@ -1,0 +1,41 @@
+ body{
+    background-color: white;
+}
+
+#myid{                                 /* style basis of id*/
+    color:white;
+    background-color:black;
+}
+
+.heading{                                /* style in basis of class*/
+    color: blueviolet;
+} 
+
+.pit{
+    height: 100px ;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+
+#hi{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    color: black;
+    background-color: greenyellow;
+}
+
+.cls{
+    color:aqua;
+}
+
+.cls2{
+    background-color:black;
+}
